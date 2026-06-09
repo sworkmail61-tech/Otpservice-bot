@@ -1,0 +1,21 @@
+{
+ "max_numbers_per_user": 10000,
+ "welcome_message": "\u2726 \u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501 \u2726\n    <b>FAST X OTP NUMBER BOT</b>\n\u2726 \u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501 \u2726\n\n\ud83d\udc51 <b>Start Instant OTP Reception Now!</b>\n\n<blockquote>\u0986\u09ae\u09be\u09a6\u09c7\u09b0 \u09aa\u09cd\u09b0\u09bf\u09ae\u09bf\u09af\u09bc\u09be\u09ae \u0993 \u09b8\u09c1\u09aa\u09be\u09b0\u09ab\u09be\u09b8\u09cd\u099f \u0997\u09cd\u09b2\u09cb\u09ac\u09be\u09b2 \u0993\u099f\u09bf\u09aa\u09bf \u09b8\u09be\u09b0\u09cd\u09ad\u09be\u09b0\u09c7 \u0986\u09aa\u09a8\u09be\u0995\u09c7 \u09b8\u09cd\u09ac\u09be\u0997\u09a4\u09ae\u0964 \u09a8\u09ae\u09cd\u09ac\u09b0 \u09a8\u09bf\u09a4\u09c7 \u09a8\u09bf\u099a\u09c7\u09b0 \u0995\u09bf\u09ac\u09cb\u09b0\u09cd\u09a1 \u09ac\u09be\u099f\u09a8\u0997\u09c1\u09b2\u09cb \u09ac\u09cd\u09af\u09ac\u09b9\u09be\u09b0 \u0995\u09b0\u09c1\u09a8\u0964</blockquote>",
+ "otp_group_url": "https://t.me/otpgroupsl",
+ "channel_url": "https://t.me/instagramotp20",
+ "support_username": "@insotpgrambotowner",
+ "maintenance_mode": false,
+ "min_withdraw": 0.5,
+ "max_withdraw": 100.0,
+ "api_key": "MURAD_7BBC35C320D5D59C990FDC92",
+ "base_url": "https://fastxotp.com",
+ "cooldown_time": 1.0,
+ "force_join_enabled": false,
+ "force_join_channels": [
+  "@instagramotp20"
+ ],
+ "join_alert_enabled": true,
+ "otp_reward": 0.002,
+ "refer_bonus": 0.05,
+ "numbers_per_request": 3
+}
