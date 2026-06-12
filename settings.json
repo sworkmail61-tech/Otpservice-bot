@@ -8,7 +8,7 @@
  "min_withdraw": 0.5,
  "max_withdraw": 100.0,
  "api_key": "MURAD_7BBC35C320D5D59C990FDC92",
- "base_url": "https://fastxotp.com",
+ "base_url": "https://fastxotps.com",
  "cooldown_time": 1.0,
  "force_join_enabled": false,
  "force_join_channels": [
