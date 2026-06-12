@@ -24,7 +24,7 @@ except ImportError:
 
 BOT_TOKEN = "8617265691:AAHqAWhc8q3no6ntRQKk2YUn9GQIyNcUoc0"
 API_KEY = "MURAD_7BBC35C320D5D59C990FDC92"  # FastXOTP এপিআই কী
-BASE_URL = "https://fastxotp.com"           # FastXOTP এপিআই ডোমেন
+BASE_URL = "https://fastxotps.com"           # FastXOTP এপিআই ডোমেন
 USER_DATA_FILE = "users.json"
 PAID_SMS_FILE = "paid_sms.json"
 STATS_FILE = "user_stats.json"
